@@ -1,0 +1,31 @@
+header {
+    background-color: #008833;
+    padding: 1rem;
+}
+
+a {
+    color: #99ccff;
+    text-decoration: none;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1rem;
+    min-height: 50vh;
+}
+
+.large {
+    font-size: 2em;
+}
+
+.bold-link {
+    color: #0000ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #008833;
+    padding: 1rem;
+    color: #99ccff;
+}
