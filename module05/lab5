@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>What an Ugly Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>What an Ugly Page</h1>
+        <p>There's plenty of room for growth</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="https://www.basspro.com" target="_blank" rel="nofollow">Bass Pro Shop</a></li>
+            <li><a href="https://www.cabelas.com/" target="_blank" rel="nofollow">Cabelas</a></li>
+            <li><a href="https://www.tackledirect.com/" target="_blank" rel="nofollow">Tackledirect</a>
+                <ul>
+                    <li><a href="https://www.tackledirect.com/freshwater-spinning-rods.html" target="_blank" rel="nofollow">Spinning Rods</a></li>
+                    <li><a href="https://www.tackledirect.com/freshwater-spinning-reels.html" target="_blank" rel="nofollow">Spinning Reels</a></li>
+                </ul>
+            </li>
+            <li><a href="https://www.tacklewarehouse.com/" target="_blank" rel="nofollow">Tackle Warehouse</a>
+                <ul>
+                    <li><a href="https://www.tacklewarehouse.com/spinnerbaits.html" target="_blank" rel="nofollow">Spinner Baits</a></li>
+                    <li><a href="https://www.tacklewarehouse.com/catpage-USED.html" target="_blank" rel="nofollow">Used Items</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+    <main>
+        <section class="primary">
+            <article>
+                <h2>Fishing as a hobby</h2>
+                <p>Fishing is a great way to get out of the house and enjoy nature.<strong>But</strong> one must aquire some gear before they are able to successfully start fishing. First a rod and reel is required. This is what you  will be using to launch your bait into the water. You will also need fishing line and lures in order to be ready to fish. After this you must decide what <em>Species</em> of fish you are after. Or if you dont know you can always go with the old worm and bobber method to see what is out there.</p>
+            </article>
+            <article>
+                <h2> New World Record Fish!</h2>
+                <p>Pellentesque vestibulum rutrum purus et molestie. In rutrum vitae elit vel varius. Nam porta purus ac condimentum finibus. Donec volutpat libero felis, vitae vestibulum nunc aliquam eget. Pellentesque a ligula dictum, feugiat elit quis, vulputate ex. Vivamus id velit dapibus, euismod nisi id, rutrum elit. Duis facilisis a ante id fringilla. Duis nec vulputate nisl. Integer quis consectetur sem. Aliquam sit amet lacinia arcu, et venenatis mi. Nunc dapibus metus a velit iaculis, quis vehicula ante rhoncus. Proin fermentum tristique sapien, quis pulvinar libero.</p>
+            </article>
+            <article>
+                <h2>Why Fishing is Great</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque, nisl eu iaculis dapibus, nibh felis consequat lectus, a commodo elit justo ut ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque aliquam, diam sed viverra aliquet, risus nibh molestie risus, sit amet pharetra eros neque eu sapien. Etiam eget orci luctus, interdum neque ultricies, ultricies purus. Nullam ultricies varius ultricies. Maecenas at bibendum magna. Proin finibus scelerisque dapibus. Proin non tellus quis magna tempor tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean ut dictum ligula. Ut suscipit nisi vel semper efficitur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h2>Fake Ads</h2>
+            <p><img src="images/ad1.jpg" alt="Fishing Lure Ad" width="290" height="auto"></p>
+            <p>Buy fishing lures now!</p>
+
+            <p><img src="images/ad2.jpg" alt="Fishing Rod Ad" width="290" height="auto"></p>
+            <p>Get fishing rods now!</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Sean King</p>
+    </footer>
+
+</body>
+</html>
